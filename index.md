@@ -4,4 +4,4 @@
 
 ### book: 
 ### contact:  math.kook.book@gmail.com
-### code: <a href="math-kook.nb">WolframAlpha notebook (.nb)</a>
+### code: <a href="math-kook.nb">notebook</a> (WolframAlpha .nb file)
