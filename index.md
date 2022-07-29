@@ -1,9 +1,7 @@
 
 # Math Kook
 
-<!--
-<IMG ALIGN=CENTER SRC="math-kook-cover.jpg"> 
--->
+<IMG ALIGN=CENTER SRC="try1.jpg"> 
 
 ### book: 
 ### attendant code: <a href="math-kook.nb">notebook</a> (WolframAlpha .nb file)
