@@ -6,6 +6,6 @@
 -->
 
 ### book: 
-### accompanying code: <a href="math-kook.nb">notebook</a> (WolframAlpha .nb file)
+### attendant code: <a href="math-kook.nb">notebook</a> (WolframAlpha .nb file)
 ### contact:  math.kook.book@gmail.com
  
