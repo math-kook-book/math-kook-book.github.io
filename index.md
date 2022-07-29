@@ -1,10 +1,4 @@
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
-
 # Math Kook
 
 <IMG ALIGN=CENTER SRC="math-kook-cover.jpg"> 
