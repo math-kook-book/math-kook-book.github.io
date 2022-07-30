@@ -1,3 +1,4 @@
+<!--
 
 # Math Kook
 
@@ -8,5 +9,5 @@
 
 <IMG ALIGN=CENTER SRC="try1.jpg"> 
 
-
+-->
  
