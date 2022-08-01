@@ -1,4 +1,4 @@
-# Errata for <b>Math Kook</b> (2022)
+# Errata for **Math **Kook (2022)
 
 ### 1. 
 
