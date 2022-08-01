@@ -1,4 +1,4 @@
-<!--
+
 
 # Math Kook
 
@@ -7,7 +7,7 @@
 ### errata: <a href="errata.html">small fixes</a>
 ### contact:  math.kook.book@gmail.com
 
-<IMG ALIGN=CENTER SRC="try1.jpg"> 
+<IMG ALIGN=CENTER SRC="math-kook-cover.jpg"> 
 
--->
+
  
