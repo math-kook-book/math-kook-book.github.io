@@ -7,7 +7,7 @@
 ### errata: <a href="errata.html">small fixes</a>
 ### contact:  math.kook.book@gmail.com
 
-<IMG ALIGN=CENTER SRC="mk-cover-pg.pdf"> 
+<IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
 
 
  
