@@ -16,5 +16,5 @@
 
 ### about the author:
 
-The author has served as a professor of computer science, chief scientist at three artificial intelligence companies, and president of his international scientific society. He is currently splitting his time between indoors and outdoors.
+### The author has served as a professor of computer science, chief scientist at three artificial intelligence companies, and president of his international scientific society. He is currently splitting his time between indoors and outdoors.
  
