@@ -1,4 +1,4 @@
-<link rel=“stylesheet” type=“text/css” href=“assets/css/styles.css”>
+<link rel=“stylesheet” type=“text/css” href=“assets/css/style.css”>
 
 # Errata for Math Kook (2022)
 
