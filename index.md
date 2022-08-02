@@ -1,6 +1,7 @@
 
+<head>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
-
+</head>
 
 # Math Kook
  
