@@ -1,9 +1,3 @@
-
-<head>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-</head>
-
-# Math Kook
  
 ### book: <a href="https://www.amazon.com/">get it here</a>
 
