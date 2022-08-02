@@ -1,8 +1,10 @@
 
 <link rel="icon" type="image/x-icon" href="favicon.ico">
   
+  <center>
 # Math Kook
-
+  </center>
+  
 ### book: <a href="https://www.amazon.com/">get it here</a>
 
 ### contact: <a href="mailto:math.kook.book@gmail.com">math.kook.book@gmail.com</a>
