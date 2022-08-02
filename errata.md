@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 # Errata for Math Kook (2022)
 
