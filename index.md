@@ -13,7 +13,7 @@
 
 ### code: <a href="math-kook.nb">.nb file</a>
 
-### errata: <a href="errata.md">small fixes</a>
+### errata: <a href="errata.html">small fixes</a>
 
 ### sister site: <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube</a>
 
