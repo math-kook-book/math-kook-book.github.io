@@ -1,5 +1,6 @@
 
-
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+  
 # Math Kook
 
 ### book: <a href="https://www.amazon.com/">get it here</a>
