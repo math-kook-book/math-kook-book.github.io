@@ -18,4 +18,4 @@
 
 <hr>
   
-### <a href="https://kevincrawfordknight.github.io/">Kevin Knight</a> has served as a professor of computer science, chief scientist at three artificial intelligence companies, and president of his international scientific society. He is currently splitting his time between indoors and outdoors. 
+### about the author: <a href="https://kevincrawfordknight.github.io/">Kevin Knight</a> has served as a professor of computer science, chief scientist at three artificial intelligence companies, and president of his international scientific society. He is currently splitting his time between indoors and outdoors. 
