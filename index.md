@@ -1,9 +1,8 @@
 
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-<div style="text-align:center">
+
 # Math Kook
-  </div>
  
 ### book: <a href="https://www.amazon.com/">get it here</a>
 
