@@ -1,6 +1,6 @@
 
 
-### book: <a href="https://www.amazon.com/">get it here</a>
+### book: <a href="https://www.amazon.com/">how to get it</a>
 
 ### contact: <a href="mailto:math.kook.book@gmail.com">math.kook.book@gmail.com</a>
 
