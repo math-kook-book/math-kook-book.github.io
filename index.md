@@ -8,6 +8,8 @@
 
 ### errata: <a href="errata.html">small fixes</a>
 
+### answers: to selected <a href="questions.html">questions</a> in the text
+
 ### videos: book margin symbol <IMG width=15em SRC="video-4.jpg"> refers to Episode 4 of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
 
 ### contact: <a href="mailto:math.kook.book@gmail.com">math.kook.book@gmail.com</a>
