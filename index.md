@@ -13,15 +13,9 @@
 ### videos: book margin symbol <IMG width=15em SRC="video-n.jpg"> refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
 
   
-### videos: book margin symbol <IMG width=15em SRC="video-n.jpg"> refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
+### videos: book margin symbol <img src="video-n.jpg" style="position:absolute;"> refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
 
-### <div style='vertical-align:middle; display:inline;'>
-videos: book margin symbol 
-</div>  
-<img style='vertical-align:middle;' src='video-n.jpg'>
-<div style='vertical-align:middle; display:inline;'>
-refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
-</div>  
+
   
 ### contact: <a href="mailto:math.kook.book@gmail.com">math.kook.book@gmail.com</a>
 
