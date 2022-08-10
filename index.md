@@ -14,7 +14,7 @@
 
 ### videos: book margin symbol <IMG width=15em SRC="video-n.jpg"> refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
 
-<div style="height:130px; width:130px;">
+### <div style="height:130px; width:130px;">
 videos: book margin symbol
 <img src="video-n.jpg" style="position:absolute;"">
 refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
