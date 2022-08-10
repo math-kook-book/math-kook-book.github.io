@@ -6,7 +6,7 @@
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
     </a>
   
-### code: <a href="math-kook.nb">.nb file</a>
+### code: <a href="math-kook.nb">.nb file</a> (10Mb)
 
 ### errata: <a href="errata.html">small fixes</a>
 
