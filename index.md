@@ -14,9 +14,11 @@
 
 ### videos: book margin symbol <IMG width=15em SRC="video-n.jpg"> refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
   
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  
 ### videos: book margin symbol <i class='fa fa-video-camera'></i> refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
   
-  fa fa-video-camera
+
  
   
 ### contact: <a href="mailto:math.kook.book@gmail.com">math.kook.book@gmail.com</a>
