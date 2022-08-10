@@ -1,5 +1,4 @@
 
-  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
 ### book: <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">get it here</a>
 
@@ -13,7 +12,9 @@
 
 ### answers: to selected <a href="questions.html">questions</a> in the text
 
-### videos: book margin symbol <IMG width=15em SRC="video-n.jpg"> refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
+<IMG width=15em SRC="video-n.jpg">
+    
+### videos: camera margin symbol refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
   
 ### contact: <a href="mailto:math.kook.book@gmail.com">math.kook.book@gmail.com</a>
 
