@@ -11,10 +11,8 @@
 ### errata: <a href="errata.html">small fixes</a>
 
 ### answers: to selected <a href="questions.html">questions</a> in the text
-
-<IMG width=15em SRC="video-n.jpg">
     
-### videos: camera margin symbol refers to episode n of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
+### videos: camera symbols in book margin refer to numbered episodes of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>
   
 ### contact: <a href="mailto:math.kook.book@gmail.com">math.kook.book@gmail.com</a>
 
