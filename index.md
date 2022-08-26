@@ -1,5 +1,5 @@
 
-<title>Math Kook (2022)</title>
+
 
 ### "This book is for anyone who is interested in how numbers work! By numbers, I mean 1, 2, 3, 4, and so on..." (from the Author's introduction)
 
