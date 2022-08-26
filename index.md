@@ -3,8 +3,9 @@
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
     </a>
 
-### Get the book: <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">here</a>.
-  
+### Get the book: <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">here</a>
+
+  <hr>
 
 ### Code: <a href="math-kook.nb">.nb file</a> (10Mb).
 
