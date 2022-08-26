@@ -6,16 +6,17 @@
 <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
     </a>
+
   
 ### Amazon: <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">page</a>
 
+### Videos: camera symbols in book margin refer to numbered episodes of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>.
+
 ### Code: <a href="math-kook.nb">.nb file</a> (10Mb).
 
-### Errata: <a href="errata.html">small fixes</a>.
-
 ### Answers: to selected <a href="questions.html">questions</a> in the text.
-    
-### Videos: camera symbols in book margin refer to numbered episodes of <a href="https://www.youtube.com/playlist?list=PL4lTtiG6es54CW3vr5yKm99TcTLAaE0kE">youtube series</a>.
+
+### Errata: <a href="errata.html">small fixes</a>.
   
 ### Contact: <a href="mailto:math.kook.book@gmail.com">math.kook.book@gmail.com</a>
 
