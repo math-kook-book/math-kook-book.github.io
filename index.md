@@ -1,7 +1,5 @@
 
-### "This book is for anyone who is interested in how numbers work! By numbers, I mean 1, 2, 3, 4, and so on..." (Author's note)
-
-### MATH KOOK presents mathematical ideas through the lens of the notorious unsolved 3n+1 conjecture (also known as the Collatz conjecture). In pursuing this deceptively simple problem, the author gives accessible explanations of prime numbers, infinite sums, modular arithmetic, and universal computers. The narrative also features alien technologies, Soviet plots, million-dollar bounties, gangster mathematicians, and semi-rigorous proofs. MATH KOOK requires no more than high-school-level math.
+### "This book is for anyone who is interested in how numbers work! By numbers, I mean 1, 2, 3, 4, and so on..."
 
 <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
