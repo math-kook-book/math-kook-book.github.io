@@ -1,14 +1,6 @@
 
-<!DOCTYPE html>
-    <html>
-    <head>
-        <title>MATH KOOK</title>
-    </head>
-    <body>
 
-        <button onClick="window.location.href = 'https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1'" style="padding: 16px; background-color: darkblue; color:aliceblue; border-radius: 4px;font-size: 12px">How to get it</button>
-
-<!-- ###  <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">Discover</a> how to get the book -->
+###  <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">Discover</a> how to get the book
 
 <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
