@@ -1,7 +1,7 @@
 
-<button onclick="window.location.href='[https://bing.com](https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1)';">Click</button>
 
-###  <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">Discover</a> how to get the book
+
+###  <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">How to get this book</a>
 
 <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
