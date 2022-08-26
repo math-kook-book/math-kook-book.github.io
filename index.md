@@ -7,7 +7,7 @@
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
     </a>
   
-### Obtain: <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">link</a>
+### Amazon: <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">page</a>
 
 ### Code: <a href="math-kook.nb">.nb file</a> (10Mb).
 
