@@ -9,7 +9,7 @@
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
     </a>
 
-### Available <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">here</a> (two sample chapters <a href="math-kook-sample-chapters.pdf">here</a>)
+### Book available <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">here</a>. Two sample chapters available <a href="math-kook-sample-chapters.pdf">here</a>.
 
   <hr>
 
