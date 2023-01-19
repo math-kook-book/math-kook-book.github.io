@@ -3,13 +3,13 @@
 ### Get book <a href="hhttps://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">here</a>
 -->
 
-### MATH KOOK presents mathematical ideas through the lens of a notorious million-dollar conjecture.
+### MATH KOOK presents mathematical ideas through the lens of a million-dollar conjecture.
 
 <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">
   <IMG ALIGN=CENTER SRC="mk-cover-pg.jpg"> 
     </a>
 
-### Available <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">here</a> (includes inside look).
+### Available <a href="https://www.amazon.com/gp/product/B0B92QRT3D/ref=ox_sc_saved_image_1?smid=A1Y53T3O3Q25L8&psc=1">here</a> (two sample chapters <a href="math-kook-sample-chapters.pdf">here</a>)
 
   <hr>
 
