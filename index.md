@@ -13,7 +13,7 @@
 
   <hr>
 
-### Code: <a href="math-kook.nb">.nb file</a> (10Mb).
+### Code: <a href="math-kook.nb">.nb file</a>. This 10Mb file can be viewed with the free <a><href="https://www.wolfram.com/player/">Wolfram Player</a>.
 
 ### Answers: to selected <a href="questions.html">questions</a> in the text.
 
